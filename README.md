@@ -3,7 +3,8 @@
 # Application Security Assignment: Beware of Geeks Bearing Gift Cards
 
 ## Overview
-This project involves auditing and improving a buggy C program designed to read and display gift card files. The task includes identifying vulnerabilities, writing test cases, fixing bugs, and improving coverage using fuzzing tools.
+
+This is my first assignment from the NYU graduate class Application Security. The project involved auditing a poorly written C program for handling gift card files, identifying vulnerabilities, and creating test cases to expose flaws, including crashes and infinite loops. I fixed the discovered bugs and used fuzzing tools like AFL to improve test coverage and identify additional vulnerabilities. The assignment emphasized secure coding practices, debugging, and automated regression testing with tools like Travis CI.
 
 ---
 
